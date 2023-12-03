@@ -38,47 +38,47 @@
 
 * Signup / Login page
 
-![pic0](https://private-user-images.githubusercontent.com/20452759/287497516-0754d26e-ac12-484c-8505-863f7204428b.png)
+![pic0](output_images/pic0.png)
 
 * Create Account
-![pic1](https://private-user-images.githubusercontent.com/20452759/287497613-de98cf9c-4437-449f-bd29-dfdf860292ff.png)
+![pic1](output_images/pic1.png)
 
 * Login
-![pic2](https://private-user-images.githubusercontent.com/20452759/287497614-adc094aa-4492-45ed-b69f-971aa259e467.png)
+![pic2](output_images/pic2.png)
 
 * Home
-![pic3](https://private-user-images.githubusercontent.com/20452759/287497615-86228920-5e4a-45f6-8a2f-f2fda78ee4fe.png)
+![pic3](output_images/pic3.png)
 
 * User's posts on Home
-![pic4](https://private-user-images.githubusercontent.com/20452759/287497616-07099a44-c792-441e-9456-3dbb5b9359ad.png)
+![pic4](output_images/pic4.png)
 
 * Reply, Repost and Like a user's post on Home
-![pic5](https://private-user-images.githubusercontent.com/20452759/287497618-34320c31-ed7d-4ae1-8f46-0afa26c5baa2.png)
+![pic5](output_images/pic5.png)
 
 * Reply to a post
-![pic6](https://private-user-images.githubusercontent.com/20452759/287497619-0a1e025b-3295-47af-9d2c-ed675a8c99a1.png)
+![pic6](output_images/pic6.png)
 
 * View a post by a user and all its replies
-![pic7](https://private-user-images.githubusercontent.com/20452759/287497620-321e4745-8ef5-404c-852d-2d195aa048df.png)
+![pic7](output_images/pic7.png)
 
 * Profile page, view your details, followers and followings counts
-![pic8](https://private-user-images.githubusercontent.com/20452759/287497621-03adb633-43dc-4fe6-bed2-1b68033d781d.png)
+![pic8](output_images/pic8.png)
 
 * View your own posts, reposts and liked posts
-![pic9](https://private-user-images.githubusercontent.com/20452759/287497622-3351d6f6-7b13-46d0-8fcd-bdb7b7e72a69.png)
-![pic9_1](https://private-user-images.githubusercontent.com/20452759/287497623-70aa739a-90de-45a4-b367-d2c6f31357f7.png)
+![pic9](output_images/pic9.png)
+![pic9_1](output_images/pic9_1.png)
 
 * Edit Profile
-![pic10](https://private-user-images.githubusercontent.com/20452759/287497624-936fc05e-7018-4993-8a34-0e05f7f5658e.png)
+![pic10](output_images/pic10.png)
 
 * View profiles of other users, follow/unfollow them, view their posts, reposts and liked posts
-![pic11](https://private-user-images.githubusercontent.com/20452759/287497625-168054a2-9354-41be-bdad-a6b1bb06ae8e.png)
+![pic11](output_images/pic11.png)
 
 * Delete your post
-![pic12](https://private-user-images.githubusercontent.com/20452759/287497627-b6383df6-ae23-441f-a278-297f231558b6.png)
+![pic12](output_images/pic12.png)
 
 * Logout
-![pic13](https://private-user-images.githubusercontent.com/20452759/287497628-ea200778-9d66-4d59-b98a-9e9536b87d15.png)
+![pic13](output_images/pic13.png)
 
 * Get Verified (only frontend)
-![pic14](https://private-user-images.githubusercontent.com/20452759/287497629-59f8ec32-205e-44b1-a77d-b205f075920c.png)
+![pic14](output_images/pic14.png)
