@@ -45,42 +45,59 @@
 ![pic1](output_images/pic1.png)
 * Create Account
 -------------------------------
-* Login
+
 ![pic2](output_images/pic2.png)
+* Login
 -------------------------------
+
 * Home
 ![pic3](output_images/pic3.png)
 -------------------------------
-* User's posts on Home
+
+* Posts of users on Homepage
 ![pic4](output_images/pic4.png)
 -------------------------------
+
 * Reply, Repost and Like a user's post on Home
 ![pic5](output_images/pic5.png)
 -------------------------------
-* Reply to a post
+
 ![pic6](output_images/pic6.png)
+* Reply to a post
 -------------------------------
-* View a post by a user and all its replies
+
 ![pic7](output_images/pic7.png)
+* View a post by a user and all its replies
 -------------------------------
+
 * Profile page, view your details, followers and followings counts
 ![pic8](output_images/pic8.png)
 -------------------------------
+
 * View your own posts, reposts and liked posts
 ![pic9](output_images/pic9.png)
 ![pic9_1](output_images/pic9_1.png)
 -------------------------------
-* Edit Profile
+
+
 ![pic10](output_images/pic10.png)
+* Edit Profile
 -------------------------------
+
 * View profiles of other users, follow/unfollow them, view their posts, reposts and liked posts
 ![pic11](output_images/pic11.png)
 -------------------------------
-* Delete your post
+
+
 ![pic12](output_images/pic12.png)
+* Delete your post
 -------------------------------
-* Logout
+
+
 ![pic13](output_images/pic13.png)
+* Logout
 -------------------------------
-* Get Verified (only frontend)
+
+
 ![pic14](output_images/pic14.png)
+* Get Verified (only frontend)
