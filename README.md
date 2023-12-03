@@ -1,8 +1,11 @@
 # Full Stack Microblogging Social Media Web Application
 
 •	A full stack microblogging social media web application, which mirrors Twitter's functionality.
+
 •	Users can sign up, log in or log out securely. On the Homepage, users can create dynamic and multimedia-rich posts, browse posts by other users, repost and like these posts and also reply to them.
+
 •	Users can view their own profile, update profile details, view their own posts, reposts, liked posts and followers/following counts.
+
 •	A user can view the post and all its details including replies by clicking on a post. A user can visit profiles of other users, follow/unfollow them, and view all of their posts and liked posts.
 
 
@@ -32,17 +35,15 @@
 * Create a cloudinary account, configure the database and make changes in the uploadToCloudinary.js file.
 * Start the backend server by running it as Spring Boot App.
 * 'npm start' can be used to view the react project in the browser.
-* 
 
 ## Outputs
 
 * Signup / Login page
-
 ![pic0](output_images/pic0.png)
-
+-------------------------------
 * Create Account
 ![pic1](output_images/pic1.png)
-
+-------------------------------
 * Login
 ![pic2](output_images/pic2.png)
 
